@@ -4,6 +4,7 @@ import App from './App';
 import Counter from './components/Counter';
 import PostItem from './components/PostItem';
 import PostList from './components/PostList';
+import MyButton from './components/UI/button/MyButton';
 
 
 const root = ReactDOM.createRoot(
